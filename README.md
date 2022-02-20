@@ -2,3 +2,4 @@
 - 👀 I’m interested in computer science and music
 - 🌱 I’m currently learning python and C, but I'll consider learning other languages later
 - 📫 How to reach me valentin.rapp.pro@gmail.com
+- 🌌 I got accepted to Epitech
